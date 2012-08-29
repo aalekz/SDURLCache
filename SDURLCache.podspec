@@ -6,7 +6,7 @@
 #
 Pod::Spec.new do |s|
   s.name     = 'SDURLCache'
-  s.version  = '0.7'
+  s.version  = '0.8'
   s.license  = 'MIT'
   s.summary  = 'URLCache subclass with on-disk cache support on iPhone/iPad. Forked for speed!'
   s.homepage = 'https://github.com/aalekz/SDURLCache.git'
